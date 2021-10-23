@@ -1,4 +1,3 @@
-/* eslint-disable array-callback-return */
 import { useCountry } from "../contexts/CountryContext";
 
 function CountryComponent() {

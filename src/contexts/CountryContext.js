@@ -1,4 +1,3 @@
-/* eslint-disable no-use-before-define */
 import React, { createContext, useContext, useState, useMemo } from "react";
 import axios from "axios";
 

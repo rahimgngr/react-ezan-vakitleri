@@ -1,4 +1,3 @@
-/* eslint-disable react-hooks/exhaustive-deps */
 import { useContext, createContext, useState, useMemo } from "react";
 import { useDistrict } from "../contexts/DistrictContext";
 import axios from "axios";
